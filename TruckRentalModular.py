@@ -1,15 +1,6 @@
-# Might have made it work
-# HARD STRESS TEST
-
-# CATCH D OR W EXCEPTIONS
-# catch weekly planing to drive 0
-
-# handle input errors
-# TODO MAKE WEEKLY BREAK RIGHT SO THAT INPUT WORKS
-
 
 def truck_rental_header():
-    # Thinking about it now, I'll bet this won't end up being centered once it iss on something else, but scratched
+    # Thinking about it now, I'll bet this won't end up being centered once it is on something else, but scratched
     # an itch for me so I'm happy.
 
     print('-' * 50)
@@ -201,7 +192,7 @@ def main():
         elif menu_choice != 'R' or 'X':
             print('Please enter either R to rent a truck or X to exit the application.')
             continue
-#
 
-
+            
 main()
+
